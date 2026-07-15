@@ -5,7 +5,7 @@ flowchart TD
 
 A([Início]) --> B[Leia valorCompra]
 
-B --> C {"Valor > 100"}
+B --> C{"Valor > 100"}
 
 C -- Sim --> D["desconto <- valorCompra x 0.10"]
 D --> E ["valorFinal <- valorCompra - desconto"]
