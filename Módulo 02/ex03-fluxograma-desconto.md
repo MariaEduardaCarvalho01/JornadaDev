@@ -15,5 +15,5 @@ C -- Não --> F['valorFinal = valorCompra']
 E --> G[Escreva valorFinal]
 F --> G
 
-G --> H ([Fim])
+G --> H([Fim])
 ```
